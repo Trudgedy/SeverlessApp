@@ -22,7 +22,7 @@ namespace Tests
         {
             var values = _controller.Get();
             values.Should().NotBeNullOrEmpty();
-            values.Count().Should().Be(2);
+            values.Count().Should().Be(3);
         }
     }
 }
