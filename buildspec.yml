@@ -19,6 +19,6 @@ phases:
 artifacts:
   files:
     - outputSamTemplate.yml
-    - /template-params.json
+    - /bin/Release/netcoreapp2.1/publish/template-params.json
   discard-paths: yes
   base-directory: Api
