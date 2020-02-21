@@ -1,0 +1,9 @@
+/.vs
+/Api/bin
+/Api/obj
+/Client/bin
+/Client/obj
+/ClientGenerator/bin
+/ClientGenerator/obj
+/Tests/bin
+/Tests/obj
